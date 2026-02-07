@@ -37,5 +37,6 @@ Data Visualization: Custom charting and dashboard design for UX/UI.
 
 The entire dataset was downloaded at [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
-Full Excel Xlsx and CSV files here:
+Full Excel Xlsx and CSV files here
+
 => [Excel files](https://drive.google.com/drive/folders/1sSWDyG7k48LbD8p5etQcdHxn8NUXgAD4?usp=sharing)
