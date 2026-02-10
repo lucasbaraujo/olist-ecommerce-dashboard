@@ -3,7 +3,8 @@ An interactive Excel dashboard designed to analyze e-commerce sales performance 
 
 Project Overview
 
-<img width="1562" height="880" alt="image" src="https://github.com/user-attachments/assets/7646a9ef-57ba-430c-bb33-5a060a483376" />
+<img width="1470" height="845" alt="image" src="https://github.com/user-attachments/assets/3a365d49-f2d4-4f9d-b622-af8c36dcb3f5" />
+
 
 This project transforms raw e-commerce data into a visual management tool. It was my first practical experience with Power Query and Power Pivot as an autodidact student learning data analysis. The dashboard provides a view of sales volume, revenue trends, and delivery performance, allowing stakeholders to identify regional strengths and logistical bottlenecks. It is fully written in Brazilian Portuguese and still has a lot to improve, such as new KPIs, new graphs, better UX/UI, and more. 
 
