@@ -7,7 +7,7 @@ Project Overview
 
 
 
-This project transforms raw e-commerce data into a visual management tool. It was my first practical experience with Power Query and Power Pivot as an autodidact student learning data analysis. The dashboard provides a view of sales volume, revenue trends, and delivery performance, allowing stakeholders to identify regional strengths and logistical bottlenecks. It is fully written in Brazilian Portuguese and still has a lot to improve, such as new KPIs, new graphs, better UX/UI, and more. 
+This project transforms raw e-commerce data into a visual management tool. It is fully written in Brazilian Portuguese and was my first practical experience with Power Query and Power Pivot as an autodidact student learning data analysis. The dashboard provides a view of sales volume, revenue trends, and delivery performance, allowing stakeholders to identify regional strengths and logistical bottlenecks. 
 
 Key Metrics (KPIs)
 
@@ -41,7 +41,7 @@ Power Query: For data cleaning and ETL (Extract, Transform, Load) processes.
 
 Power Pivot: For connecting and loading a huge amount of data without overloading Excel and my computer, and using some basic DAX functions
 
-It was my first time dealing with Power Pivot and Power Query in particular, so there may be some errors or bad practices that I want to come back in the future.
+It was my first time working with Power Pivot and Power Query, so there may be some errors or bad practices I want to revisit in the future.
 
 The entire dataset was downloaded at [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
