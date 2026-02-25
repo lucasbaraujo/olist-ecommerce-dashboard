@@ -1,48 +1,50 @@
-Olist E-Commerce Performance Dashboard
-An interactive Excel dashboard designed to analyze e-commerce sales performance and logistics efficiency using the Olist dataset.
-
-Project Overview
+Dashboard de Desempenho de E-commerce - Olist
+Um dashboard interativo em Excel projetado para analisar o desempenho de vendas e a eficiência logística de um e-commerce utilizando o conjunto de dados (dataset) da Olist.
 
 <img width="1103" height="622" alt="image" src="https://github.com/user-attachments/assets/a8218641-cb57-43e3-8f95-2ba1fc51d4b5" />
 
+Visão Geral do Projeto
+Este projeto transforma dados brutos de e-commerce em uma ferramenta de gestão visual. Ele foi desenvolvido inteiramente em português do Brasil e foi minha primeira experiência prática com Power Query e Power Pivot. O dashboard oferece uma visão do volume de vendas, tendências de receita e desempenho de entrega, permitindo que os gestores identifiquem pontos fortes regionais e gargalos logísticos.
+
+Principais Métricas (KPIs)
+Total de Vendas: 99.441 pedidos.
+
+Ticket Médio: R$ 136,68.
+
+Taxa de Cancelamento: 1%.
+
+Tempo Médio de Entrega: 12,5 dias.
+
+Taxa de Entrega no Prazo (On-Time): 93%.
+
+Receita Total: R$ 13,59 milhões.
+
+Total de Vendedores: 3.095.
+
+Recursos Interativos
+Filtros Dinâmicos: Os usuários podem filtrar todos os visuais por Estado, Ano, Avaliação (Review) e Trimestre.
+
+Distribuição Geográfica: Visualização em mapa que demonstra a densidade de pedidos em todo o Brasil.
+
+Análise de Tendência: Gráfico de receita mensal para identificação de padrões sazonais.
+
+Acompanhamento Logístico: Detalhamento mensal das porcentagens de entregas realizadas dentro do prazo.
+
+Tecnologias Utilizadas
+Microsoft Excel: Tabelas Dinâmicas, Segmentadores de Dados (Slicers), gráficos personalizados e design de dashboard focado em UX/UI.
+
+Power Query: Para limpeza de dados e processos de ETL (Extração, Transformação e Carga).
+
+Power Pivot: Para conectar e carregar um grande volume de dados sem sobrecarregar o Excel ou o hardware, utilizando funções básicas de DAX.
+
+Nota: Como foi meu primeiro contato com Power Pivot e Power Query, pode haver erros pontuais ou práticas não otimizadas que pretendo revisar futuramente.
+
+O conjunto de dados completo foi obtido no [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
+Arquivos completos em Excel (.xlsx) e CSV disponíveis [aqui](https://drive.google.com/drive/folders/1sSWDyG7k48LbD8p5etQcdHxn8NUXgAD4?usp=sharing).
 
 
-This project transforms raw e-commerce data into a visual management tool. It is fully written in Brazilian Portuguese and was my first practical experience with Power Query and Power Pivot as an autodidact student learning data analysis. The dashboard provides a view of sales volume, revenue trends, and delivery performance, allowing stakeholders to identify regional strengths and logistical bottlenecks. 
 
-Key Metrics (KPIs)
 
-Total Sales: 99,441 orders.
 
-Average Ticket (Ticket Médio): R$ 136.68.
 
-Cancellation Rate: 1%.
 
-Average Delivery Time: 12.5 Days.
-
-On-Time Delivery Rate: 93%.
-
-Total Revenue: R$ 13.59M.
-
-Total Sellers: 3095
-
-Interactive Features
-Dynamic Filters: Users can filter all visuals by State (Estado), Year, Review, and Quarter (Trimestre).
-
-Geographic Distribution: A map visualization showing order density across Brazil.
-
-Trend Analysis: A monthly revenue chart to identify seasonal patterns.
-
-Logistics Tracking: A monthly breakdown of on-time delivery percentages.
-
-Technologies Used
-Microsoft Excel: Pivot Tables, Slicers, custom charting, and dashboard design for UX/UI.
-
-Power Query: For data cleaning and ETL (Extract, Transform, Load) processes.
-
-Power Pivot: For connecting and loading a huge amount of data without overloading Excel and my computer, and using some basic DAX functions
-
-It was my first time working with Power Pivot and Power Query, so there may be some errors or bad practices I want to revisit in the future.
-
-The entire dataset was downloaded at [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-
-Full Excel Xlsx and CSV files [here](https://drive.google.com/drive/folders/1sSWDyG7k48LbD8p5etQcdHxn8NUXgAD4?usp=sharing)
