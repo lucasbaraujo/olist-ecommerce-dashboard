@@ -38,7 +38,7 @@ Acompanhamento Logístico: Detalhamento mensal das porcentagens de entregas real
 
 Microsoft Excel: Tabelas Dinâmicas, Segmentadores de Dados (Slicers), gráficos personalizados e design de dashboard focado em UX/UI.
 
-Power Query: Para limpeza de dados e processos de ETL (Extração, Transformação e Carga).
+Power Query: Para limpeza de dados e processos de ETL (Extrair, Transformar e Carregar).
 
 Power Pivot: Para conectar e carregar um grande volume de dados sem sobrecarregar o Excel ou o hardware, utilizando funções básicas de DAX.
 
