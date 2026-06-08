@@ -42,7 +42,6 @@ Power Query: Para limpeza de dados e processos de ETL (Extrair, Transformar e Ca
 
 Power Pivot: Para conectar e carregar um grande volume de dados sem sobrecarregar o Excel ou o hardware, utilizando funções básicas de DAX.
 
-Nota: Como foi meu primeiro contato com Power Pivot e Power Query, pode haver erros pontuais ou práticas não otimizadas que pretendo revisar futuramente.
 
 O conjunto de dados completo foi obtido no [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
